@@ -1,3 +1,0 @@
-C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Praca/Labb11/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Praca/Labb11/cmake-build-debug/CMakeFiles/Labb11.dir
-C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/Praca/Labb11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
